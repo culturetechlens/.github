@@ -15,7 +15,6 @@ We build taxonomy-first, evidence-graded research infrastructure: every claim ca
 | Repository | What it is |
 |---|---|
 | [culturetechlens-index](https://github.com/culturetechlens/culturetechlens-index) | The CultureTechLens Index — a monthly, data-driven ranking of Black cultural resonance (the CTL 10) |
-| [culturetechlens-research](https://github.com/culturetechlens/culturetechlens-research) | The governed research corpus: 14 flagship research packages, 25 research briefs, 8 research dossiers |
 | [culturetechlens-knowledge-graph](https://github.com/culturetechlens/culturetechlens-knowledge-graph) | CTL-KG-CORE-001 — the Black Cultural Knowledge Graph seed: 300 entities, 224 verified relationships |
 
 ## Cite us
