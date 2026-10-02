@@ -44,3 +44,4 @@ Research content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cod
 
 
 Website: https://culturetechlens.com · Source: CultureTechLens
+Donate: https://culturetechlens.com/donate/
