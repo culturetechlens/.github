@@ -21,8 +21,9 @@ We build taxonomy-first, evidence-graded research infrastructure: every claim ca
 
 | Repository | What it is |
 |---|---|
-| [culturetechlens-index](https://github.com/culturetechlens/culturetechlens-index) | The CultureTechLens Index — a monthly, data-driven ranking of Black cultural resonance (the CTL 10) |
-| [culturetechlens-knowledge-graph](https://github.com/culturetechlens/culturetechlens-knowledge-graph) | CTL-KG-CORE-001 — the Black Cultural Knowledge Graph seed: 300 entities, 224 verified relationships |
+| [culturetechlens](https://github.com/culturetechlens/culturetechlens) | The flagship repository — the Black Cultural Knowledge Graph stamped slice (3,488 entities · 2,162 edges), the Citation Register, Reviews, and the Index. Divided by trust, condensed by audience. |
+| [culturetechlens-index](https://github.com/culturetechlens/culturetechlens-index) | (archived) The CultureTechLens Index — a monthly, data-driven ranking of Black cultural resonance (the CTL 10) |
+| [culturetechlens-knowledge-graph](https://github.com/culturetechlens/culturetechlens-knowledge-graph) | (archived) CTL-KG-CORE-001 — the original knowledge graph seed repository; superseded by the flagship. Its historical counts were contradictory and are corrected in its README — do not cite them. |
 
 
 ## Cite us
