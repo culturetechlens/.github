@@ -53,3 +53,9 @@ Donate: https://culturetechlens.com/donate/
 ## Identifiers
 
 - Wikidata: [Q141705779](https://www.wikidata.org/wiki/Q141705779)
+
+- Knowledge Graph (canonical dataset): [10.5281/zenodo.23403147](https://doi.org/10.5281/zenodo.23403147) — current release v2.0: 7,530 entities · 7,998 relationships · 832 rights-documented photographs
+- Hugging Face: [huggingface.co/culturetechlens](https://huggingface.co/culturetechlens) — dataset mirrors of the Knowledge Graph and the Index editions
+- ORCID (William Maxey, founder): [0009-0004-2837-8037](https://orcid.org/0009-0004-2837-8037)
+
+If this research infrastructure is useful to your work, a star on the flagship repository helps other researchers find it — and citing the DOI makes the record compound.
