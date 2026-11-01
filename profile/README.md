@@ -10,7 +10,7 @@
 ---
 
 
-CultureTechLens is Chicago's Black cultural intelligence platform, curating the intersection of history, athletics, music, and technology through a lens of cultural preservation and analysis.
+CultureTechLens builds Black cultural infrastructure — an open, evidence-graded archive of Black history, music, sports, film, and technology, rooted in Chicago and built to be cited by communities and institutions.
 
 
 We build taxonomy-first, evidence-graded research infrastructure: every claim carries its evidence, every source its type, every uncertainty its label. Rankings measure resonance, never worth. The question markets the research.
