@@ -1,61 +1,28 @@
-# CULTURETECHLENS
+# CultureTechLens
 
+**Culture, Clearly Seen.**
 
-**"Culture, Clearly Seen."**
+CultureTechLens is a Chicago-based Black cultural intelligence platform — a 501(c)(3) nonprofit archive, research, and publishing institution founded by William Maxey. It exists to answer one question: *Who is missing from the record?*
 
+![The record, in numbers](ctl-stats.png)
 
-**Black Cultural Intelligence**
+## Coverage
 
+![Coverage map — anchored in Chicago, across the diaspora](ctl-coverage-map.png)
 
----
+![Flags of the diaspora](ctl-flags-strip.png)
 
+## Start here
 
-CultureTechLens builds Black cultural infrastructure — an open, evidence-graded archive of Black history, music, sports, film, and technology, rooted in Chicago and built to be cited by communities and institutions.
+- **[culturetechlens](https://github.com/culturetechlens/culturetechlens)** — the flagship repository: the Black Cultural Knowledge Graph and the institution's public home on GitHub.
+- **[culturetechlens-research](https://github.com/culturetechlens/culturetechlens-research)** — research packages, briefs, and dossiers.
+- **[culturetechlens-index](https://github.com/culturetechlens/culturetechlens-index)** — the CultureTechLens Index, the monthly data-driven ranking of Black cultural resonance.
+- **[culturetechlens-knowledge-graph](https://github.com/culturetechlens/culturetechlens-knowledge-graph)** — the archived seed of the knowledge graph.
 
+## Cite and license
 
-We build taxonomy-first, evidence-graded research infrastructure: every claim carries its evidence, every source its type, every uncertainty its label. Rankings measure resonance, never worth. The question markets the research.
+The graph and datasets are the citable source of truth behind [culturetechlens.com](https://culturetechlens.com). Every claim is evidence-graded, and corrections are logged in public. Licensing enquiries from libraries and institutions: **info@culturetechlens.com** · Press: **press@culturetechlens.com**
 
+Wikidata: [Q141705779](https://www.wikidata.org/wiki/Q141705779) · Founder ORCID: [0009-0004-2837-8037](https://orcid.org/0009-0004-2837-8037)
 
-## Repositories
-
-
-| Repository | What it is |
-|---|---|
-| [culturetechlens](https://github.com/culturetechlens/culturetechlens) | The flagship repository — the Black Cultural Knowledge Graph stamped slice (3,488 entities · 2,162 edges), the Citation Register, Reviews, and the Index. Divided by trust, condensed by audience. |
-| [culturetechlens-research](https://github.com/culturetechlens/culturetechlens-research) | The public research corpus — 14 flagship Deep Research packages, 26 research briefs, 9 dossiers, deposited in the exact layout culturetechlens.com links to. CITATION.cff, a corpus manifest, Dublin Core record, and a public corrections record. The evidence layer, citable item by item |
-| [culturetechlens-index](https://github.com/culturetechlens/culturetechlens-index) | (archived) The CultureTechLens Index — a monthly, data-driven ranking of Black cultural resonance (the CTL 10) |
-| [culturetechlens-knowledge-graph](https://github.com/culturetechlens/culturetechlens-knowledge-graph) | (archived) CTL-KG-CORE-001 — the original knowledge graph seed repository; superseded by the flagship. Its historical counts were contradictory and are corrected in its README — do not cite them. |
-
-
-## Cite us
-
-
-CultureTechLens NFP, "CultureTechLens Index, Edition 2026-10: Artifacts (CTL-IDX-003)," 2026-09-28.
-
-The research corpus — and every item in it, by CTL ID — is citable from the [citation infrastructure](https://github.com/culturetechlens/culturetechlens-research/tree/main/citation) in the research repository. One page for humans: [culturetechlens.com/cite](https://culturetechlens.com/cite/).
-
-
-## License
-
-
-Research content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code: MIT.
-
-
----
-
-
-*CULTURETECHLENS · "Culture, Clearly Seen." · Black Cultural Intelligence*
-
-
-Website: https://culturetechlens.com · Source: CultureTechLens
-Donate: https://culturetechlens.com/donate/
-
-## Identifiers
-
-- Wikidata: [Q141705779](https://www.wikidata.org/wiki/Q141705779)
-
-- Knowledge Graph (canonical dataset): [10.5281/zenodo.23403147](https://doi.org/10.5281/zenodo.23403147) — current release v2.0: 7,530 entities · 7,998 relationships · 832 rights-documented photographs
-- Hugging Face: [huggingface.co/culturetechlens](https://huggingface.co/culturetechlens) — dataset mirrors of the Knowledge Graph and the Index editions
-- ORCID (William Maxey, founder): [0009-0004-2837-8037](https://orcid.org/0009-0004-2837-8037)
-
-If this research infrastructure is useful to your work, a star on the flagship repository helps other researchers find it — and citing the DOI makes the record compound.
+*CultureTechLens NFP · 501(c)(3) nonprofit · EIN 39-3143901 · PO Box 379244, Chicago, IL 60637*
