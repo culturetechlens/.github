@@ -1,0 +1,58 @@
+name: Missing record
+description: Propose a person, place, organization, work, event, or practice that belongs in the graph.
+title: "[Missing record] "
+labels: ["missing-record"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. CultureTechLens exists to answer one question: who is
+        missing from the record? A proposal needs at least one named
+        source — a record without a source does not enter the graph.
+  - type: input
+    id: name
+    attributes:
+      label: Name of the missing record
+      placeholder: "Person, place, organization, work, event, or practice"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of record is it?
+      options:
+        - Person
+        - Place
+        - Organization or institution
+        - Work (album, film, book, show, publication)
+        - Event
+        - Practice or tradition
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does it belong in the graph?
+      description: Its significance, and its connection to Black history and culture — especially any Chicago connection.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: At least one named source (title, publisher, date, page or link). Primary sources are best. Wikipedia can point the way but cannot be the source for a graded claim.
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Credit
+      description: Name to credit if the record is added, or write "anonymous".
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm
+      options:
+        - label: I searched the archive and existing issues for this record first.
+          required: true
