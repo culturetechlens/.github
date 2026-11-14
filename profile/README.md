@@ -28,7 +28,7 @@ Found an error in a record? CultureTechLens corrects in public — open the **Re
 
 ## Cite and license
 
-The graph and datasets are the citable source of truth behind [culturetechlens.com](https://culturetechlens.com). Every claim is evidence-graded, and corrections are logged in public. Licensing enquiries from libraries and institutions: **info@culturetechlens.com** · Press: **press@culturetechlens.com**
+The graph and datasets are the citable source of truth behind [culturetechlens.com](https://culturetechlens.com). Every claim is evidence-graded, and corrections are logged in public. Licensing enquiries from libraries and institutions: **info@culturetechlens.com** · Press: **info@culturetechlens.com**
 
 Wikidata: [Q141705779](https://www.wikidata.org/wiki/Q141705779) · Founder ORCID: [0009-0004-2837-8037](https://orcid.org/0009-0004-2837-8037)
 
