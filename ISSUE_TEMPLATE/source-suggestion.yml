@@ -1,0 +1,49 @@
+name: Source suggestion
+description: Suggest a primary source that supports or contradicts a CultureTechLens record.
+title: "[Source] "
+labels: ["source-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. CultureTechLens grades every claim against named
+        sources, and primary sources — filings, deeds, photographs,
+        contemporaneous reporting — carry the most weight.
+  - type: input
+    id: record
+    attributes:
+      label: Which record is this source about?
+      description: Record ID (for example CTL-P-0739), page URL, or the name of the record.
+      placeholder: "CTL-P-0739 or the record's name"
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: The source
+      description: Title, publisher or archive, date, and a link or citation (page, box, or reel) precise enough for a maintainer to find it.
+    validations:
+      required: true
+  - type: dropdown
+    id: effect
+    attributes:
+      label: What does this source do?
+      options:
+        - Supports an existing claim
+        - Contradicts an existing claim
+        - Adds a claim the record is missing
+        - Not sure — please review
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Optional context — provenance, how you found it, related records.
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm
+      options:
+        - label: I searched existing issues for this source first.
+          required: true
