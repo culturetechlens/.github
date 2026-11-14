@@ -1,0 +1,70 @@
+name: Report an error
+description: Report a factual error in a CultureTechLens record, dataset, or page.
+title: "[Error] "
+labels: ["correction-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. CultureTechLens corrects errors in public. Verified
+        reports are logged at
+        https://culturetechlens.com/about/corrections/ with the original
+        text, the corrected text, and the date.
+        For security problems, do not use this form. See SECURITY.md.
+  - type: input
+    id: location
+    attributes:
+      label: Where is the error?
+      description: Record ID (for example CTL-E-0074), page URL, dataset name, or file path.
+      placeholder: "CTL-E-0074 or https://culturetechlens.com/..."
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of error is it?
+      options:
+        - Date
+        - Name or spelling
+        - Number or count
+        - Credit or attribution
+        - Relationship between records
+        - Evidence grade
+        - Broken link or missing source
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what-is-wrong
+    attributes:
+      label: What does it currently say?
+      description: Copy the exact text or value.
+    validations:
+      required: true
+  - type: textarea
+    id: what-is-correct
+    attributes:
+      label: What should it say?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Link or describe the source (title, publisher, date, page). Primary sources are best.
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Credit
+      description: Name to credit in the corrections log, or write "anonymous".
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm
+      options:
+        - label: I searched existing issues and the corrections log for this error.
+          required: true
+        - label: This is a factual error report, not a security issue.
+          required: true
