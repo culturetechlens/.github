@@ -19,6 +19,7 @@ CultureTechLens is a Chicago-based Black cultural intelligence platform — a 50
 - **[culturetechlens](https://github.com/culturetechlens/culturetechlens)** — the flagship repository: the Black Cultural Knowledge Graph and the institution's public home on GitHub.
 - **[culturetechlens-research](https://github.com/culturetechlens/culturetechlens-research)** — research packages, briefs, and dossiers.
 - **[culturetechlens-index](https://github.com/culturetechlens/culturetechlens-index)** — the CultureTechLens Index, the monthly data-driven ranking of Black cultural resonance.
+- **[black-cultural-knowledge-graph](https://github.com/culturetechlens-cpu/black-cultural-knowledge-graph)** — Dataset v2.0: the combined-graph research cut (7,530 entities · 7,998 relationships), same concept DOI.
 - **[culturetechlens-knowledge-graph](https://github.com/culturetechlens/culturetechlens-knowledge-graph)** — the archived seed of the knowledge graph.
 
 ## Contribute
