@@ -4,7 +4,7 @@
 
 **Culture, Clearly Seen.**
 
-CultureTechLens is a Chicago-based Black cultural intelligence platform — a 501(c)(3) nonprofit archive, research, and publishing institution founded by William Maxey. It exists to answer one question: *Who is missing from the record?*
+CultureTechLens builds Black cultural infrastructure — an open, evidence-graded archive of Black history, music, sports, film, and technology, rooted in Chicago and built to be cited by communities and institutions. It exists to answer one question: *Who is missing from the record?*
 
 ![The record, in numbers](ctl-stats.png)
 
@@ -16,10 +16,11 @@ CultureTechLens is a Chicago-based Black cultural intelligence platform — a 50
 
 ## Start here
 
-- **[culturetechlens](https://github.com/culturetechlens/culturetechlens)** — the flagship repository: the Black Cultural Knowledge Graph and the institution's public home on GitHub.
+- **[culturetechlens](https://github.com/culturetechlens/culturetechlens)** — the flagship repository: the Black Cultural Knowledge Graph, the CultureTechLens Index, and the institution's public home on GitHub.
 - **[culturetechlens-research](https://github.com/culturetechlens/culturetechlens-research)** — research packages, briefs, and dossiers.
-- **[culturetechlens-index](https://github.com/culturetechlens/culturetechlens-index)** — the CultureTechLens Index, the monthly data-driven ranking of Black cultural resonance.
+- **[prove-it-3d-graph-game](https://github.com/culturetechlens/prove-it-3d-graph-game)** — Prove It! The CultureTechLens game: an Afro-American game in a Three.js 3D graph. Don't just know it. Prove it.
 - **[black-cultural-knowledge-graph](https://github.com/culturetechlens-cpu/black-cultural-knowledge-graph)** — Dataset v2.0: the combined-graph research cut (7,530 entities · 7,998 relationships), same concept DOI.
+- **[culturetechlens-index](https://github.com/culturetechlens/culturetechlens-index)** — ARCHIVED (read-only since 2026-10-19). The Index now lives in the flagship repository above and at [culturetechlens.com/research/culturetechlens-index/](https://culturetechlens.com/research/culturetechlens-index/).
 - **[culturetechlens-knowledge-graph](https://github.com/culturetechlens/culturetechlens-knowledge-graph)** — the archived seed of the knowledge graph.
 
 ## Contribute
@@ -32,4 +33,4 @@ The graph and datasets are the citable source of truth behind [culturetechlens.c
 
 Wikidata: [Q141705779](https://www.wikidata.org/wiki/Q141705779) · Founder ORCID: [0009-0004-2837-8037](https://orcid.org/0009-0004-2837-8037)
 
-*CultureTechLens NFP · 501(c)(3) nonprofit · EIN 39-3143901 · PO Box 379244, Chicago, IL 60637*
+*CultureTechLens NFP · 501(c)(3) nonprofit · EIN 39-3143901 · PO Box 379244, Chicago, IL 60637-9233*
